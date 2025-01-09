@@ -1,25 +1,18 @@
 <div id="presentación" align="center">
     <h1>
       Hola
-      Soy Sebastián
+      Soy Sebastián 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
     </h1>
   </div>
   
   <div id="badges" align="center">
     <a href="mailto:sebasuriel777@gmail.com">
-      <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Website Badge"/>
     </a>
-    <a href="https://al3sha9.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
+    <a href="https://www.linkedin.com/in/sebastian-rodriguez-3a872a280/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://twitter.com/alishxn_">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  
-  <div id="profile-views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
   </div>
   
   
@@ -31,6 +24,8 @@
   - 🔭 Actualmente, me encuentro desarrollando mi propia página web y profundizando mis conocimientos en lenguajes de programación.
   - 🌱 Además, estoy creando de manera individual un videojuego utilizando RPG Maker MV
   - 📫 Mi contacto es por medio de mi Email: [sebasuriel777@gmail.com](mailto:sebasuriel777@gmail.com)
+    
+  - <img src="https://img.shields.io/badge/Spanish-Native-brightgreen" alt="Spanish Badge"/>&nbsp; <img src="https://img.shields.io/badge/English-Basic-blue" alt="English Badge"/>
   
   
   ## :hammer_and_wrench: Lenguajes y Herramientas:
@@ -42,15 +37,28 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Ajax" alt="Axios" width="40" height="40"/>
+         
   </div>
    
-  
+
     
   ## :fire: Mis habilidades:
   
-  Lenguajes de Programación: Python, JavaScript, HTML, CSS
-  Frameworks y Librerías: Node.js, Express, React JS, Ajax
-  Herramientas y Tecnologías: Git, GitHub
-  Bases de Datos: MySQL, MongoDB
-  Idiomas: Español (Nativo), Inglés (Básico)
+  * Trabajo en equipo: Colaboración efectiva utilizando metodologías ágiles como Scrum.
+
+  * Resolución de problemas: Enfoque proactivo y analítico para solucionar desafíos técnicos.
+
+  * Comunicación: Habilidades para transmitir ideas y conceptos técnicos de manera clara.
+
+  * Atención al Detalle: Minuciosidad en la revisión y verificación del código y documentación.
+
+  * Aprendizaje Continuo: Compromiso con la actualización constante de conocimientos y habilidades en tecnología.
+
+  * Creatividad: Innovación en la resolución de problemas y en la implementación de soluciones tecnológicas.
+
+  * Adaptabilidad: Capacidad para adaptarse a nuevas tecnologías y entornos de trabajo rápidamente.
+
+  * Pensamiento Crítico: Evaluación analítica de situaciones y toma de decisiones informadas.
   
